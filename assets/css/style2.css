@@ -1,0 +1,21 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.contacts{
+    height: fit-content;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+svg path {
+    cursor: pointer;
+}
+#world{
+    display: block;
+}
+#india{
+    display: block;
+}
+  
+  
