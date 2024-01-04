@@ -7,22 +7,7 @@ const ind = document.getElementById('india');
 const popup = document.getElementById('popup');
 const popupText = document.getElementById('popup-text');
 
-function createMarker(x, y) {
-  const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-  circle.setAttribute('cx', x);
-  circle.setAttribute('cy', y);
-  circle.setAttribute('r', 5); // Adjust the radius as needed
-  circle.setAttribute('fill', 'red'); // Adjust the color as needed
 
-  // Add an event listener to handle click on the marker point
-  circle.addEventListener('click', function() {
-    // Perform an action when the marker point is clicked (e.g., hide the marker)
-    svg_ind.removeChild(circle);
-  });
-
-  // Append the circle (marker) to the SVG
-  svg_ind.appendChild(circle);
-}
 
 // Add marker points on the SVG image
 createMarker(100, 80); // Replace these coordinates with your desired positions
