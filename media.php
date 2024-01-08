@@ -482,7 +482,7 @@
             </div>
             <div class="copyright">
                 <div class="container">
-                    <p>@ 2023 Sodahub</p>
+                    <p>@ 2024 Sodahub</p>
                     <ul>
                         <li><a href="./Terms_Conditions.html">Terms &amp; Conditions </a></li>
                         <li><a href="./Privacy_Policy.html">Privacy Policy</a></li>
