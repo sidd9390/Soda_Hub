@@ -568,8 +568,8 @@
                 <div class="container">
                     <p>@ 2023 Sodahub</p>
                     <ul>
-                        <li><a href="#">Terms &amp; Conditions </a></li>
-                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="./Terms_Conditions.html">Terms &amp; Conditions </a></li>
+                        <li><a href="./Privacy_Policy.html">Privacy Policy</a></li>
                         <li><a href="#">Sitemap</a></li>
                     </ul>
                 </div>

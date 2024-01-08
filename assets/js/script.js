@@ -7,14 +7,6 @@ const ind = document.getElementById('india');
 const popup = document.getElementById('popup');
 const popupText = document.getElementById('popup-text');
 
-
-
-// Add marker points on the SVG image
-createMarker(100, 80); // Replace these coordinates with your desired positions
-createMarker(200, 120);
-createMarker(300, 50);
-
-
 // Add marker points to the SVG based on image coordinates
 const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
 const cx = 1430; // X-coordinate of the circle's center
@@ -36,7 +28,7 @@ svg.addEventListener('click', function(event) {
   
   if ((clickX >= 910 && clickX <=940) && (clickY >= 250 && clickY <=280)) {
     // Perform the operation when the click is inside the circle (e.g., hide the SVG element)
-    //ind.style.display = 'block';
+    ind.style.display = 'block';
      // Hide the entire SVG (change this to your desired operation)
   }
 });
@@ -83,7 +75,6 @@ function addMarker(x, y, labelText, bgColor) {
 }
 
 
-
 addMarker(1430, 400, 'India-334', 'orange');
 addMarker(500, 270, 'US-1', 'orange');
 addMarker(1700, 650, 'Australia-1','orange');
@@ -102,8 +93,6 @@ addMarker(980, 390, 'Burkina Faso-1', 'orange');
 addMarker(900, 430, 'Guinea-1', 'orange');
 addMarker(950, 470, 'Liberia-1', 'orange');
 addMarker(900, 385, 'Senegal-1', 'orange');
-
-
 // Add more markers as needed
 
 // Add more markers as needed
