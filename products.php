@@ -122,6 +122,7 @@
         
         .gallery_product
         {
+            text-align: center;
             margin-bottom: 30px;
         }
         
@@ -326,7 +327,7 @@
                     </div>
         
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter golisoda">
-                        <img src="assets/images/machines/Golisoda/2bpm.webp" class="img-responsive">
+                        <img src="assets/images/machines/Golisoda/2BPM.webp" class="img-responsive">
                         <h4 class="centeralign">2 BPM Goli Soda</h4>
                     </div>
         
@@ -344,17 +345,17 @@
                     </div>
         
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter golisoda">
-                        <img src="assets/images/machines/Golisoda/10BpmSmX-1.webp" class="img-responsive">
+                        <img src="assets/images/machines/Golisoda/10 Bpm SmX-2.webp" class="img-responsive">
                         <h4 class="centeralign">10 BPM Goli Soda</h4>
                     </div>
         
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter golisoda">
-                        <img src="assets/images/machines/Golisoda/10BpmSmXOrange.webp" class="img-responsive">
+                        <img src="assets/images/machines/Golisoda/30bpm smx-1.webp" class="img-responsive">
                         <h4 class="centeralign">10 BPM Goli Soda</h4>
                     </div>
         
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter golisoda">
-                        <img src="assets/images/machines/Golisoda/12Bpm-1.webp" class="img-responsive">
+                        <img src="assets/images/machines/Golisoda/12bpm-1.webp" class="img-responsive">
                         <h4 class="centeralign">12 BPM Goli Soda</h4>
                     </div>
         
@@ -364,7 +365,7 @@
                     </div>
         
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter golisoda">
-                        <img src="assets/images/machines/Golisoda/30Bpm-2.webp" class="img-responsive">
+                        <img src="assets/images/machines/Golisoda/30bpm.webp" class="img-responsive">
                         <h4 class="centeralign">30 BPM Goli Soda</h4>
                     </div>
         
@@ -372,17 +373,17 @@
                     <!-- Pet -->
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter pet">
-                        <img src="assets/images/machines/Pet/5Bpm.webp" class="img-responsive">
+                        <img src="assets/images/machines/pet/5BPm.webp" class="img-responsive">
                          <h4 class="centeralign">5 BPM Pet</h4>
                     </div>
         
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter pet">
-                        <img src="assets/images/machines/Pet/10bpm.webp" class="img-responsive">
+                        <img src="assets/images/machines/pet/10bpm.webp" class="img-responsive">
                          <h4 class="centeralign">10 BPM Pet</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter pet">
-                        <img src="assets/images/machines/Pet/20Bpm.webp" class="img-responsive">
+                        <img src="assets/images/machines/pet/20bpm.webp" class="img-responsive">
                          <h4 class="centeralign">20 BPM Pet</h4>
                     </div>
                     
@@ -390,108 +391,108 @@
                       <!-- Other Machines -->
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/sugarhopper.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/sugar hopper.webp" class="img-responsive">
                          <h4 class="centeralign">Sugar Hopper</h4>
                     </div>
                     
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/Sugarsyrupmixing.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/Sugar syrup mixing.webp" class="img-responsive">
                          <h4 class="centeralign">Sugar Syrup Mixing</h4>
                     </div>
                     
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/SmartMix.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/Smart Mix.webp" class="img-responsive">
                          <h4 class="centeralign">Smart Mix</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/SleevSealing _ shrinkpackingmachine.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/Sleev Sealing _ shrink packing machine.webp" class="img-responsive">
                          <h4 class="centeralign">Sleev Sealing Shrink Packing Machine</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/ROmachine.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/RO machine.webp" class="img-responsive">
                          <h4 class="centeralign">Ro Machine</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/Rinsingmachine-24 bottlesrinsing.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/Rinsing machine - 24 bottles rinsing.webp" class="img-responsive">
                          <h4 class="centeralign">Rinsing Machine-24 Bottles Rinsing</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/machine.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/machine.webp" class="img-responsive">
                          <h4 class="centeralign">Machine</h4>
                     </div>
                     
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/InductionStirrer.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/Induction Stirrer.webp" class="img-responsive">
                          <h4 class="centeralign">Induction Stirrer</h4>
                     </div>
                     
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/gasbank.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/gas bank.webp" class="img-responsive">
                          <h4 class="centeralign">Gas Bank</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/Coolingtower.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/Cooling tower.webp" class="img-responsive">
                          <h4 class="centeralign">Cooling Tower</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/chillerpannel.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/chiller pannel.webp" class="img-responsive">
                          <h4 class="centeralign">Chiller Pannel</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/capelivator.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/cap elivator.webp" class="img-responsive">
                          <h4 class="centeralign">Capelivator</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/Canseamer.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/Can seamer.webp" class="img-responsive">
                          <h4 class="centeralign">Canseamer</h4>
                     </div>
                     
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/Brushingunit.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/Brushing unit.webp" class="img-responsive">
                          <h4 class="centeralign">Brushing Unit</h4>
                     </div>
                     
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/AirCompressor.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/Air Compressor.webp" class="img-responsive">
                          <h4 class="centeralign">Air Compressor</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/12Headglassbottlefiller.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/12 Head glass bottle filler.webp" class="img-responsive">
                          <h4 class="centeralign">12 Head Glass Bottle Filler</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/8headgravityfiller.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/8 head gravity filler.webp" class="img-responsive">
                          <h4 class="centeralign">8 Head Gravity Filler</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/6bpmcarbonatedsoftdrinkmachine.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/6bpm carbonated soft drink machine.webp" class="img-responsive">
                          <h4 class="centeralign">6 BPM Carbonated Soft Drink Machine</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/5LtrChiller.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/5Ltr Chiller.webp" class="img-responsive">
                          <h4 class="centeralign">5Ltr Chiller</h4>
                     </div>
                     
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter othermachines">
-                        <img src="assets/images/machines/Othermachines/2Headsyruper.webp" class="img-responsive">
+                        <img src="assets/images/machines/Other machines/2 Head syruper.webp" class="img-responsive">
                          <h4 class="centeralign">2 Head syruper</h4>
                     </div>
                     
