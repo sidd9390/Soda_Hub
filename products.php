@@ -277,7 +277,7 @@
         </div>
         
         <!-- :: Breadcrumb Header -->
-        <section class="breadcrumb-header style-2" id="page" style="background-image: url(assets/images/header/Products.jpg)">
+        <section class="breadcrumb-header style-2" id="page" style="background-image: url(assets/images/header/Products.webp)">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">
@@ -322,12 +322,12 @@
                       <!--Can-->
                       
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter can">
-                        <img src="assets/images/machines/Can/5cpm.webp" class="img-responsive">
+                        <img src="assets/images/machines/Can/5cpm-1.webp" class="img-responsive">
                         <h4 class="centeralign">5 CPM Can</h4>
                     </div>
         
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter golisoda">
-                        <img src="assets/images/machines/Golisoda/2BPM.webp" class="img-responsive">
+                        <img src="assets/images/machines/Golisoda/2bpm-1.webp" class="img-responsive">
                         <h4 class="centeralign">2 BPM Goli Soda</h4>
                     </div>
         
@@ -344,10 +344,6 @@
                         <h4 class="centeralign">6 BPM Goli Soda</h4>
                     </div>
         
-                    <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter golisoda">
-                        <img src="assets/images/machines/Golisoda/10 Bpm SmX-2.webp" class="img-responsive">
-                        <h4 class="centeralign">10 BPM Goli Soda</h4>
-                    </div>
         
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter golisoda">
                         <img src="assets/images/machines/Golisoda/30bpm smx-1.webp" class="img-responsive">
@@ -365,7 +361,7 @@
                     </div>
         
                     <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter golisoda">
-                        <img src="assets/images/machines/Golisoda/30bpm.webp" class="img-responsive">
+                        <img src="assets/images/machines/Golisoda/30bpm-1.webp" class="img-responsive">
                         <h4 class="centeralign">30 BPM Goli Soda</h4>
                     </div>
         

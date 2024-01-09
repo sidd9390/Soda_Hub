@@ -229,7 +229,7 @@
         </div>
         
         <!-- :: Breadcrumb Header -->
-        <section class="breadcrumb-header style-2" id="page" style="background-image: url(assets/images/header/Media.jpg)">
+        <section class="breadcrumb-header style-2" id="page" style="background-image: url(assets/images/header/Media.webp)">
             <div class="overlay"></div>
             <div class="container">
                 <div class="row">

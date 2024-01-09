@@ -1817,6 +1817,8 @@ p {
 .services.home-3 .item-box{
     position: relative;
     padding: 50px 35px;
+    
+    align-items: normal;
 }
 .services.home-2 .services-carousel-item .item-box i{
     float: left;
