@@ -79,6 +79,7 @@
             width: 50%;
             width:720px;
             height:480px;
+            border-radius: 7px;
         }
     </style>
      
@@ -375,8 +376,6 @@
                                                            <div>
                                                                <img  src="assets/images/gallery/16.jpg" class="imgk" />
                                                             </div>
-                                                            
-                                                            
                                                              <div>
                                                                 <img  src="assets/images/gallery/17.jpg" class="imgk" />
                                                             </div>
