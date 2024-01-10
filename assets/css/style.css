@@ -1931,7 +1931,7 @@ p {
 .services.home-3 .item-box:hover .content-box p,
 .services.home-3 .item-box:hover .content-box .more,
 .services.home-3 .item-box .content-box .more:hover:after{
-	color: #FFF;
+	color: black;
 }
 
 
@@ -4480,4 +4480,30 @@ p {
 #map{
     background-color: #262442;
     border-radius: 8px;
+}
+.home_cards{
+    transition: transform .5s;
+    background-color: white;
+    color: black;
+}
+.home_cards i{
+    font-size: 50px;
+}
+.home_cards:hover{
+    transform: scale(1.05);
+    background-color: #F57009;
+    transition: .5s;
+}
+.home_cards_contact{
+    transition: transform .5s;
+    background-color: transparent;
+    color: black;
+}
+.home_cards_contact i{
+    font-size: 50px;
+}
+.home_cards_contact:hover{
+    transform: scale(1.05);
+    background-color: #F57009;
+    transition: .5s;
 }
