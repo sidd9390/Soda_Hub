@@ -506,7 +506,7 @@
       
         
        <!-- :: Footer -->
-        <footer class="footer">
+       <footer class="footer">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-6 col-lg-3">
@@ -515,7 +515,7 @@
                             
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-6 col-md-3">
                         <div class="footer-title">
                             <h4>Feature</h4>
                         </div>
@@ -530,7 +530,7 @@
                         </ul>
                     </div>
                   
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-6 col-md-3">
                         <div class="footer-title">
                             <h4>Get In Touch</h4>
                         </div>
@@ -540,13 +540,11 @@
                             <li><a class="phone" href="tel:+917815949572">+91 78159 49572</a></li>
                             <li><a class="phone" href="tel:+919573858585">+91 95738 58585</a></li>
                             
-                            
-                                    
-                            
                         </ul>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="footer-title">
+                            
                              <ul class="icon">
                                     <li><a href="https://www.facebook.com/sodahub.industrialautomation/"><i class="fab fa-facebook-f"></i></a></li>
                                     <li><a href="https://twitter.com/soda_hub"><i class="fab fa-twitter"></i></a></li>
@@ -567,7 +565,7 @@
                     <ul>
                         <li><a href="./Terms_Conditions.html">Terms &amp; Conditions </a></li>
                         <li><a href="./Privacy_Policy.html">Privacy Policy</a></li>
-                        <li><a href="#">Sitemap</a></li>
+                        <li><a href="./SiteMap.html">Sitemap</a></li>
                     </ul>
                 </div>
             </div>

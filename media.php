@@ -427,16 +427,16 @@
               
 		
          <!-- :: Footer -->
-        <footer class="footer">
+         <footer class="footer">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="logo">
-                            <img class="img-fluid" src="assets/images/logo/sodahub-logo.png" alt="Footer Logo" >
+                            <img class="img-fluid" src="assets/images/logo/sodahub-logo.png" alt="Footer Logo">
                             
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-6 col-md-3">
                         <div class="footer-title">
                             <h4>Feature</h4>
                         </div>
@@ -451,7 +451,7 @@
                         </ul>
                     </div>
                   
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-6 col-md-3">
                         <div class="footer-title">
                             <h4>Get In Touch</h4>
                         </div>
@@ -465,11 +465,12 @@
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="footer-title">
+                            
                              <ul class="icon">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
+                                    <li><a href="https://www.facebook.com/sodahub.industrialautomation/"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="https://twitter.com/soda_hub"><i class="fab fa-twitter"></i></a></li>
+                                    <li><a href="https://www.instagram.com/sodahub_shia/"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="https://www.youtube.com/@nanduvadde"><i class="fab fa-youtube"></i></a></li>
                              </ul>
 
                             <p>Follow our social media</p>
@@ -485,7 +486,7 @@
                     <ul>
                         <li><a href="./Terms_Conditions.html">Terms &amp; Conditions </a></li>
                         <li><a href="./Privacy_Policy.html">Privacy Policy</a></li>
-                        <li><a href="#">Sitemap</a></li>
+                        <li><a href="./SiteMap.html">Sitemap</a></li>
                     </ul>
                 </div>
             </div>
