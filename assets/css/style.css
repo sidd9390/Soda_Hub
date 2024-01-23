@@ -7,6 +7,18 @@
 :: Version: 1.0
 :: 
 */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: orangered;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
 
 /*
     01 :: Reset Page Css
@@ -3174,7 +3186,7 @@ p {
 .scroll-up {
     position: fixed;
     z-index: 100;
-    bottom: 30px;
+    bottom: 130px;
     right: 30px;
     -webkit-box-shadow: 0px 0px 40px 4px rgba(0, 0, 0, 0.05);
     box-shadow: 0px 0px 40px 4px rgba(0, 0, 0, 0.05);
