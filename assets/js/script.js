@@ -93,6 +93,7 @@ addMarker(980, 390, 'Burkina Faso-1', 'orange');
 addMarker(900, 430, 'Guinea-1', 'orange');
 addMarker(950, 470, 'Liberia-1', 'orange');
 addMarker(900, 385, 'Senegal-1', 'orange');
+
 // Add more markers as needed
 
 // Add more markers as needed

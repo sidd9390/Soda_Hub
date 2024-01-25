@@ -53,6 +53,7 @@
         
           
         <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         
         <style>
             body {
@@ -70,6 +71,17 @@
   ::-webkit-scrollbar-thumb:hover {
     background: #555;
   }
+
+  #Goli_Soda{
+    display: block;
+  }
+  #C_an{
+    display: none;
+  }
+  #P_et{
+    display: none;
+  }
+
          </style>
 
         <style>
@@ -325,130 +337,71 @@
                 </div>
                 <div class="projects-list text-center">
                     <ul class="list-name-projects">
-                        <li data-filter="all" class="active mixitup-control-active">All</li>
-                        <li data-filter=".sdpm">soft-drink-plant-machinery</li>
-                        <li data-filter=".cia">customized-golisoda-automation</li>
-                        <li data-filter=".golisoda">goli-soda-12bpm</li>
+                        <li class="active mixitup-control-active" onclick="Goli()">Goli Soda</li>
+                        <li onclick="Can()">Can</li>
+                        <li onclick="Pet()">Pet</li>
+                        <li><a href="./products.php" style="color: black;">More Machines<i class="fa-solid fa-arrow-up-right-from-square"></i></a></li>
                        
                     </ul>
                 </div>
-                <div class="row all-projects">
-                    <div class="col-md-6 col-lg-4 mix cia">
-                        <div class="projects-item">
-                            <span></span>
-                            <div class="img-box">
-                                <img class="img-fluid projects-item-img" src="assets/images/services/Customized-Industrial-Automation.jpg" alt="01 projects">
-                            </div>
-                            <div class="hover-box">
-                                <div class="text-box">
-                                    <div class="tags"><a href="03_projects.html">Customized  &amp; Industrial, </a><a href="03_projects.html">Automation</a></div>
-                                    <h4><a href="03_projects.html">Customized Industrial Automation</a></h4>
-                                </div>
-                                <ul class="projects-icon">
-                                    <li><a href="03_projects.html"><i class="fas fa-link"></i></a></li>
-                                    <li><a class="popup" href="assets/images/services/Customized-Industrial-Automation.jpg"><i class="far fa-eye"></i></a></li>
-                                </ul>
-                            </div>
+                <div class="Goli_Soda cmp-accordion__panel--expanded" id="Goli_Soda">
+                    <div class="row all-projects text-center">
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/Golisoda/6bpm.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">6 BPM Goli Soda</h4>
+                        </div>
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/Golisoda/30bpm smx-1.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">10 BPM Goli Soda</h4>
+                        </div>
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/Golisoda/12bpm-1.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">12 BPM Goli Soda</h4>
+                        </div>
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/Golisoda/16bpm.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">16 BPM Goli Soda</h4>
+                        </div>
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/Golisoda/30bpm-1.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">30 BPM Goli Soda</h4>
+                        </div>
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/Golisoda/2bpm-1.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">2 BPM Goli Soda</h4>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4 mix sdpm">
-                        <div class="projects-item">
-                            <span></span>
-                            <div class="img-box">
-                                <img class="img-fluid projects-item-img" src="assets/images/services/softdrink/60bpmcarbonated.jpg" alt="06 projects">
-                            </div>
-                            <div class="hover-box">
-                                <div class="text-box">
-                                    <div class="tags"><a href="03_projects.html">60 </a><a href="03_projects.html"> BPM Carbonated</a></div>
-                                    <h4><a href="03_projects.html"> Soft Drink Plant & Machinery</a></h4>
-                                </div>
-                                <ul class="projects-icon">
-                                    <li><a href="03_projects.html"><i class="fas fa-link"></i></a></li>
-                                    <li><a class="popup" href="assets/images/services/softdrink/60bpmcarbonated.jpg"><i class="far fa-eye"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                   
-                     <div class="col-md-6 col-lg-4 mix sdpm">
-                        <div class="projects-item">
-                            <span></span>
-                            <div class="img-box">
-                                <img class="img-fluid projects-item-img" src="assets/images/services/softdrink/40bpmcarbonated.jpg" alt="06 projects">
-                            </div>
-                            <div class="hover-box">
-                                <div class="text-box">
-                                    <div class="tags"><a href="03_projects.html">40 </a><a href="03_projects.html"> BPM Carbonated</a></div>
-                                    <h4><a href="03_projects.html">Soft Drink Plant & Machinery</a></h4>
-                                </div>
-                                <ul class="projects-icon">
-                                    <li><a href="03_projects.html"><i class="fas fa-link"></i></a></li>
-                                    <li><a class="popup" href="assets/images/services/softdrink/40bpmcarbonated.jpg"><i class="far fa-eye"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-4 mix golisoda">
-                        <div class="projects-item">
-                            <span></span>
-                            <div class="img-box">
-                                <img class="img-fluid projects-item-img" src="assets/images/services/golisoda/GOLI-SODA-12BPM.jpg" alt="05 projects">
-                            </div>
-                            <div class="hover-box">
-                                <div class="text-box">
-                                    <div class="tags"><a href="03_projects.html">manufacturing, </a><a href="03_projects.html">golisoda</a></div>
-                                    <h4><a href="03_projects.html">mantabo ball industry</a></h4>
-                                </div>
-                                <ul class="projects-icon">
-                                    <li><a href="03_projects.html"><i class="fas fa-link"></i></a></li>
-                                    <li><a class="popup" href="assets/images/services/golisoda/GOLI-SODA-12BPM.jpg"><i class="far fa-eye"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                       <div class="col-md-6 col-lg-4 mix sdpm">
-                        <div class="projects-item">
-                            <span></span>
-                            <div class="img-box">
-                                <img class="img-fluid projects-item-img" src="assets/images/services/softdrink/20bpmcarbonated.jpg" alt="06 projects">
-                            </div>
-                            <div class="hover-box">
-                                <div class="text-box">
-                                    <div class="tags"><a href="03_projects.html">20 </a><a href="03_projects.html"> BPM Carbonated</a></div>
-                                    <h4><a href="03_projects.html">Soft Drink Plant & Machinery</a></h4>
-                                </div>
-                                <ul class="projects-icon">
-                                    <li><a href="03_projects.html"><i class="fas fa-link"></i></a></li>
-                                    <li><a class="popup" href="assets/images/services/softdrink/20bpmcarbonated.jpg"><i class="far fa-eye"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-
-                   
-
-                       <div class="col-md-6 col-lg-4 mix sdpm">
-                        <div class="projects-item">
-                            <span></span>
-                            <div class="img-box">
-                                <img class="img-fluid projects-item-img" src="assets/images/services/softdrink/8bpm.jpg" alt="06 projects">
-                            </div>
-                            <div class="hover-box">
-                                <div class="text-box">
-                                    <div class="tags"><a href="03_projects.html">8 </a><a href="03_projects.html"> BPM Carbonated</a></div>
-                                    <h4><a href="03_projects.html">Soft Drink Plant & Machinery</a></h4>
-                                </div>
-                                <ul class="projects-icon">
-                                    <li><a href="03_projects.html"><i class="fas fa-link"></i></a></li>
-                                    <li><a class="popup" href="assets/images/services/softdrink/8bpm.jpg"><i class="far fa-eye"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                   
                 </div>
+                <div class="C_an cmp-accordion__panel--expanded" id="C_an">
+                    <div class="row all-projects text-center">
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/Can/5cpm-1.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">5 CPM Can</h4>
+                        </div>
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/Can/10Cpm.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">10 CPM Can</h4>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="P_et cmp-accordion__panel--expanded" id="P_et">
+                    <div class="row all-projects text-center">
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/pet/5BPm.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">5 BPM Pet</h4>
+                        </div>
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/pet/10bpm.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">10 BPM Pet</h4>
+                        </div>
+                        <div class="col-md-6 col-lg-4 mix p-3">
+                            <img src="assets/images/machines/pet/20bpm.webp" class="img-fluid" alt="">
+                            <h4 class="centeralign">20 BPM Pet</h4>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </section>
      
@@ -633,6 +586,27 @@
             // :: Setup Mixitup
             var containerEl = document.querySelector('.all-projects');
             var mixer = mixitup(containerEl);
+            var Gol_c = document.getElementById("Goli_Soda");
+            var Pet_c = document.getElementById("P_et");
+            var Can_c = document.getElementById("C_an");
+
+            function Goli() {
+                Gol_c.style.display = "block";
+                Pet_c.style.display = "none";
+                Can_c.style.display = "none";
+            }
+            function Can() {
+                
+                Gol_c.style.display = "none";
+                Pet_c.style.display = "none";
+                Can_c.style.display = "block";
+            }
+            function Pet() {
+                Gol_c.style.display = "none";
+                Pet_c.style.display = "block";
+                Can_c.style.display = "none";
+            }
+
         </script>
 
                 
